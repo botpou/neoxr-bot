@@ -2,9 +2,9 @@
   "name": "CheemsBot-MD",
   "version": "6.0.0",
   "description": "Automated whatsapp md bot created using nodejs and baileys lib",
-  "type": "commonjs",
+  "type": "index.js",
   "scripts": {
-    "start": "node --max_old_space_size=8192 index.js"
+    "start": "node ."
   },
   "keywords": [
     "termux",
